@@ -64,9 +64,9 @@ to **every connected client**. This will really bring the community together!
    server running:
 
    - [Javascript](https://tech-docs.corndel.com/express/web-socket-server.html)
-   - [Java]()
-   - [Python]()
-   - [C#]()
+   - [Java](https://tech-docs.corndel.com/javalin/web-socket-server.html)
+   - [Python](https://tech-docs.corndel.com/python/web-socket-server.html)
+   - [C#](https://tech-docs.corndel.com/csharp/web-socket-server.html)
 
 ### Stage 2: Targeted messaging
 
